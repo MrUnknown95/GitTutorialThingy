@@ -1,0 +1,2 @@
+# GitTutorialThingy
+Learning Git Hub!
